@@ -1,4 +1,5 @@
 # calculator
 Python calculator using TkInter.
 
-> python3 calc.py -t
+To run:
+> python3 calc.py
